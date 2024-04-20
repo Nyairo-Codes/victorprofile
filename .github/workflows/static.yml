@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="./resume/css/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+</head>
+<body>
+
+<div class="container">
+
+    <div class="profile">
+        <img src="./resume/pictures/victor.jpeg" alt="">
+        <h3>Victor Kiprono</h3>
+        <p style="color:grey;"> Accountant</p>
+        <div class="share">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-linkedin"></a>
+        </div>
+        <div class="buttons">
+            <a href="victorkiprono.pdf" class="btn-1">download cv</a>
+    
+        </div>
+    </div>
+
+    <div class="information">
+
+        <div class="about">
+
+<style>
+   .about p{
+        padding :20px;
+    }
+</style>
+
+
+            <h3 class="title">about me</h3>
+           <p style="background-color: rgb(250, 250, 250); color: rgb(14, 13, 13);" >i'm a dedicated and detail-oriented Accountant with experience supporting financial operations within diverse
+            corporate environments. Possessing a strong foundation in accounting principles and practices, coupled with
+            proficiency in financial software applications. Demonstrated ability to streamline processes, maintain accurate
+            records, and facilitate efficient financial reporting. Skilled in reconciling accounts, processing invoices, and
+            assisting in budget preparation. A proactive team player with excellent communication and problem-solving
+            skills, committed to contributing to the success of the finance department. Seeking to leverage my skills and
+            experience to contribute to a dynamic finance team.</p> 
+            <div class="box-container">
+        
+            </div>
+        </div>
+
+        <div class="services">
+            <h3 class="title">SIGNATURE COMPETENCIES</h3>
+            <div class="box-container">
+                <div class="box">
+                    <img src="./resume/images/general-ledger-line-icon-vector.jpg" alt="">
+                    <h3> Genral leger</h3>
+                </div>
+                <div class="box">
+                    <img src="./resume/images/zz.png" alt="">
+                    <h3>Zoho Books</h3>
+                </div>
+                <div class="box">
+                    <img src="./resume/images/qb1.png" alt="">
+                    <h3>Quick Books</h3>
+                </div>
+                <div class="box">
+                    <img src="./resume/images/e1.png" alt="">
+                    <h3>Microsoft Excel</h3>
+                </div>
+                <div class="box">
+                    <img src="./resume/images/report.png" alt="">
+                    <h3>Financial Reporting</h3>
+                </div>
+                <div class="box">
+                    <img src="./resume/images/invoice processing.png" alt="">
+                    <h3>Invoice Processing</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="skills">
+            <h3 class="title">my skills</h3>
+            <div class="box-container">
+                <div class="box">
+                    <div class="progress">
+                        <h3>reconciling accounts<span>95%</span></h3>
+                        <div class="bar"><span></span></div>
+                    </div>
+                    <div class="progress">
+                        <h3>invoice processing<span>80%</span></h3>
+                        <div class="bar"><span></span></div>
+                    </div>
+                    <div class="progress">
+                        <h3>Budget preparation<span>65%</span></h3>
+                        <div class="bar"><span></span></div>
+                    </div>
+                    <div class="progress">
+                        <h3>Financial software Applications<span>70%</span></h3>
+                        <div class="bar"><span></span></div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="progress">
+                        <h3>Cash Book preparation<span>90%</span></h3>
+                        <div class="bar"><span></span></div>
+                    </div>
+                    <div class="progress">
+                        <h3>Record Inegrity  <span>75%</span></h3>
+                        <div class="bar"><span></span></div>
+                    </div>
+                    <div class="progress">
+                        <h3>Financial Reporting<span>65%</span></h3>
+                        <div class="bar"><span></span></div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="experience">
+            <h3 class="title">My Job Experience</h3>
+            <div class="box-container">
+                <div class="box">
+                    <span>May- August(2023)</span>
+                    <h3>Ozonecool Investment </h3>
+                    <p>Description attached at the download cv in pdf format.</p>
+                </div>
+               
+        </div>
+
+        <div class="contact">
+            <h3 class="title">contact info</h3>
+            <div class="box-container">
+                <div class="box">
+                    <i class="fas fa-map"></i>
+                    <div class="info">
+                        <h3>my address</h3>
+                        <p>Nairobi, Kenya- 1684-00606</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <i class="fas fa-phone"></i>
+                    <div class="info">
+                        <h3>Tel</h3>
+                        <p>+254743866078</p>
+                       
+                    </div>
+                </div>
+                <div class="box">
+                    <i class="fas fa-envelope"></i>
+                    <div class="info">
+                        <h3>mail</h3>
+                        <p>victorlangat637@gmail.com</p>
+                        >
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="path/to/aos.js"></script>
+<script src="script.js"></script>
+  		
+		<!-- end of footer  -->
+</body>
+</html>
